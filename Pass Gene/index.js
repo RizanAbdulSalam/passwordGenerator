@@ -1,6 +1,6 @@
 function getPassword(){
     var chars = "QWERTYUIOPASDFGHJKLZXCVBNM0123456789qwertyuiopasdfghjklzxcvbnm!@#$%^&*()<>?{}\|~`+="
-    var passwordLength = 15;
+    var passwordLength = 14;
     var password = "";
 
     for (var i=0; i<passwordLength; i++){
