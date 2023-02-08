@@ -1,5 +1,5 @@
 function getPassword(){
-    var chars = "QWERTYUIOPASDFGHJKLZXCVBNM0123456789qwertyuiopasdfghjklzxcvbnm!@#$%^&*()<>?{}\[]|~`+=•←→"
+    var chars = "QWERTYUIOPASDFGHJKLZXCVBNM0123456789qwertyuiopasdfghjklzxcvbnm!@#£€₹$%^&*()<>?{}\[]|~`+=•←→"
     var passwordLength = 14;
     var password = "";
 
